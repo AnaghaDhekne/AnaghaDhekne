@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+Greetings! I'm Anagha Dhekne, a driven Software Developer with a passion for crafting innovative solutions and delivering high-quality applications. With over 3+ years of experience in full-stack development, system design and database management, I am actively seeking full-time opportunities to collaborate, lead and innovate in dynamic tech ecosystems.
+
+I specialize in creating scalable, secure, and user-friendly applications using technologies like Python, JavaScript, React, SQL, Spring Boot, and machine learning. I thrive in agile environments that encourage creativity and teamwork, and I am committed to tackling complex challenges, driving impactful projects, and staying at the forefront of technological advancements.
+
+If you're searching for a Software Developer who combines technical expertise with a proactive mindset and a passion for innovation, let’s connect! Together, we can build cutting-edge solutions and take your organization’s tech journey to new heights. 
 <!--
 **AnaghaDhekne/AnaghaDhekne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
